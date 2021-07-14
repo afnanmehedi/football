@@ -29,7 +29,7 @@ margin: 207px 102px 240px 156px;
 
 .banner-img {
     width: 50%;
-    margin: 153px 141px 86px 10px;
+    margin: 153px 141px 86px 0;
 }
 
 
@@ -40,4 +40,8 @@ margin: 207px 102px 240px 156px;
     font-size: 30px;
     color: #FFFFFF;
     padding: 10px 24px;
+  }
+
+  .players{
+      
   }
